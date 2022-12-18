@@ -1,0 +1,27 @@
+{
+  "name": "fun-pokemon-battler",
+  "version": "1.0.0",
+  "description": "You will be implementing a Pokemon battle game using the Object Oriented Programming skills you've learned this week!",
+  "main": "pokemon_battler-test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuzzyJess/fun-pokemon-battler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuzzyJess/fun-pokemon-battler/issues"
+  },
+  "homepage": "https://github.com/fuzzyJess/fun-pokemon-battler#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  },
+  "dependencies": {
+    "inquirer": "^9.1.1"
+  }, 
+  "type": "module"
+}
